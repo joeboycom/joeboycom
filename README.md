@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Joe</h1>
+<h3 align="center">A mobile developer from Taiwan</h3>
+
+- 🌱 I’m currently learning **Flutter, Android and iOS**
+
+- 💬 Ask me about **Flutter, Android**
 
 <!--
 **joeboycom/joeboycom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
